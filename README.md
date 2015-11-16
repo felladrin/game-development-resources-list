@@ -7,7 +7,6 @@
 - [Sound Generators](#sound-generators)
 - [Audio Sequencers](#audio-sequencers)
 - [Audio Composing Tools](#audio-composing-tools)
-- [Version Control Systems](#version-control-systems)
 - [Creative Commons licensed Music](#creative-commons-licensed-music)
 - [Royalty Free Sounds](#royalty-free-sounds)
 - [Modeling Tools](#modeling-tools)
@@ -15,8 +14,6 @@
 - [Fonts](#fonts)
 - [Project Management Applications](#project-management-applications)
 - [Time Management Methods](#time-management-methods)
-- [Articles](#articles)
-- [Books](#books)
 
 ------------
 
@@ -72,12 +69,6 @@
 * [LMMS](https://lmms.io/)
 * [MilkyTracker](http://www.milkytracker.org/)
 
-### Version Control Systems
-
-* [Git](http://git-scm.com/)
-* [Mercurial](http://mercurial.selenic.com/)
-* [SVN](https://subversion.apache.org/)
-
 ### Creative Commons licensed Music
 
 * [Imcompetech](http://incompetech.com/)
@@ -116,15 +107,9 @@
 
 * [Pomodoro Technique](http://pomodorotechnique.com/)
 
-### Articles
+------------
 
-* [How to Succeed at Making One Game a Month](http://gamedevelopment.tutsplus.com/articles/1gam-how-to-succeed-at-making-one-game-a-month--gamedev-3695)
-* [16 Tips, Tools and Resources for Your Next Game Jam](http://gamedevelopment.tutsplus.com/articles/16-tips-tools-and-resources-for-your-next-game-jam--gamedev-12084)
-* [How to Get the Most Out of a Game Jam](http://gamedevelopment.tutsplus.com/articles/how-to-get-the-most-out-of-a-game-jam--gamedev-437)
-
-### Books
-
-* [The Game Jam Survival Guide (£ 3.00)](https://www.packtpub.com/game-development/game-jam-survival-guide)
+Things that would not fit in this list: *Articles*, *Books*, *Version Control Systems*.
 
 ------------
 
