@@ -114,7 +114,7 @@
 
 ### Time Management Methods
 
-* [Técnica Pomodoro](http://pomodorotechnique.com/)
+* [Pomodoro Technique](http://pomodorotechnique.com/)
 
 ### Articles
 
@@ -125,3 +125,8 @@
 ### Books
 
 * [The Game Jam Survival Guide (£ 3.00)](https://www.packtpub.com/game-development/game-jam-survival-guide)
+
+------------
+
+One-click sharing links for this page  
+[Twitter](http://twitter.com/home?status=https://github.com/felladrin/game-development-resources-list) ·  [Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/felladrin/game-development-resources-list&p[images][0]=&p[title]=Everchanging%20List%20of%20Game%20Development%20Resources&p[summary]=) ·  [G+](https://plus.google.com/share?url=https://github.com/felladrin/game-development-resources-list) ·  [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/felladrin/game-development-resources-list&title=Everchanging%20List%20of%20Game%20Development%20Resources&summary=&source=)
