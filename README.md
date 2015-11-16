@@ -2,8 +2,8 @@
 
 ### Table of Contents:
 
-1. [Game Engines](#game-engines)
-- [Game Assets](#game-assets)
+1. [Engines / Frameworks](#)
+- [Assets / Placeholders](#)
 - [Sound Generators](#sound-generators)
 - [Audio Sequencers](#audio-sequencers)
 - [Audio Composing Tools](#audio-composing-tools)
@@ -20,7 +20,7 @@
 
 ------------
 
-### Game Engines
+### Engines / Frameworks
 
 * [BabylonJS](http://babylonjs.com/)
 * [Cocos2D](http://www.cocos2d-x.org/)
@@ -36,11 +36,10 @@
 * [PlayCanvas](http://playcanvas.com/)
 * [Ren’Py](http://www.renpy.org/)
 * [Stencyl](http://www.stencyl.com/)
-* [UDK](http://unrealengine.com/udk )
 * [Unity3D](http://unity3d.com/)
-* [Unreal Engine 4](https://www.unrealengine.com/)
+* [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)
 
-### Game Assets
+### Assets / Placeholders
 
 * [ArtSader](http://art.devsader.com/)
 * [Blend Swap](http://www.blendswap.com/)
