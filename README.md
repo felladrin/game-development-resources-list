@@ -19,6 +19,7 @@
 
 ### Engines / Frameworks
 
+* [Adventure Game Studio](http://www.adventuregamestudio.co.uk/)
 * [BabylonJS](http://babylonjs.com/)
 * [Cocos2D](http://www.cocos2d-x.org/)
 * [Construct](https://www.scirra.com/construct2/)
@@ -42,6 +43,7 @@
 * [Torque 3D](http://torque3d.org/)
 * [Unity3D](http://unity3d.com/)
 * [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)
+* [WiMi5](http://wimi5.com/)
 
 ### Assets / Placeholders
 
