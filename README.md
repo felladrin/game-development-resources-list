@@ -92,8 +92,11 @@
 
 ### Modeling Tools
 
+* [3D-Coat](http://3d-coat.com/)
 * [Blender](http://www.blender.org/)
 * [Clara.io](https://clara.io/)
+* [SketchUp](http://www.sketchup.com/)
+* [Wings 3D](http://www.wings3d.com/)
 
 ### Utils
 
