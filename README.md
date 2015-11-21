@@ -9,7 +9,8 @@
 - [Audio Composing Tools](#audio-composing-tools)
 - [Creative Commons licensed Music](#creative-commons-licensed-music)
 - [Royalty Free Sounds](#royalty-free-sounds)
-- [Modeling Tools](#modeling-tools)
+- [2D Animation](#2d-animation)
+- [3D Modeling](#3d-modeling)
 - [Utils](#utils)
 - [Fonts](#fonts)
 - [Project Management Applications](#project-management-applications)
@@ -90,7 +91,11 @@
 * [Freesound](https://www.freesound.org/)
 * [SoundBible](http://soundbible.com/)
 
-### Modeling Tools
+### 2D Animation
+
+* [Spriter](http://www.brashmonkey.com/spriter.htm)
+
+### 3D Modeling
 
 * [3D-Coat](http://3d-coat.com/)
 * [Blender](http://www.blender.org/)
