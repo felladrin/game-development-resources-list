@@ -11,11 +11,13 @@
 7.  [Royalty Free Sounds](#royalty-free-sounds)
 8.  [2D Animation](#2d-animation)
 9.  [3D Modeling](#3d-modeling)
-10. [Utils](#utils)
-11. [Fonts](#fonts)
-12. [Icons](#icons)
-13. [Project Management Applications](#project-management-applications)
-14. [Time Management Methods](#time-management-methods)
+10. [Idea Generators](#idea-generators)
+11. [Color Scheme Designers](#color-scheme-designers)
+12. [Utils](#utils)
+13. [Fonts](#fonts)
+14. [Icons](#icons)
+15. [Project Management Applications](#project-management-applications)
+16. [Time Management Methods](#time-management-methods)
 
 ------------------------------------------------------------------------
 
@@ -36,8 +38,11 @@
 -   [Goo Create](http://goocreate.com/)
 -   [jMonkeyEngine](http://jmonkeyengine.org/)
 -   [Love2D](https://love2d.org/)
+-   [Marmalade](https://www.madewithmarmalade.com/)
+-   [MonoGame](http://www.monogame.net/)
 -   [Paradox](http://paradox3d.net/)
 -   [Phaser](http://phaser.io/)
+-   [Pixi.js](http://www.pixijs.com/)
 -   [PlayCanvas](http://playcanvas.com/)
 -   [Ren’Py](http://www.renpy.org/)
 -   [Stencyl](http://www.stencyl.com/)
@@ -101,22 +106,32 @@
 -   [3D-Coat](http://3d-coat.com/)
 -   [Blender](http://www.blender.org/)
 -   [Clara.io](https://clara.io/)
+-   [MakeHuman](http://www.makehuman.org/)
 -   [SketchUp](http://www.sketchup.com/)
 -   [Wings 3D](http://www.wings3d.com/)
 
+### Idea Generators
+
+-   [Orteil's Game Idea Generator](http://orteil.dashnet.org/gamegen)
+-   [Board Game Design Idea Generator](http://www.boardgamizer.com/)
+
+### Color Scheme Designers
+
+-   [Paletton](http://paletton.com/)
+-   [Adobe Color](https://color.adobe.com/)
+
 ### Utils
 
--   [Adobe Color](https://color.adobe.com/)
 -   [Mindmup](https://www.mindmup.com)
--   [Paletton](http://paletton.com/)
 -   [Spacescape](http://alexcpeterson.com/spacescape)
 -   [Button Generator](http://buttonoptimizer.com/)
--   [FontForge](http://fontforge.github.io/)
+-   [Twine](http://twinery.org/)
 
 ### Fonts
 
 -   [Da Font](http://dafont.com/)
 -   [Google Fonts](http://www.google.com/fonts)
+-   [FontForge](http://fontforge.github.io/)
 
 ### Icons
 
@@ -133,7 +148,7 @@
 
 ------------------------------------------------------------------------
 
-Things that would not fit in this list: *Articles*, *Books*, *Version Control Systems*.
+Things that would not fit in this list: *Articles*, *Books*, *Videos*, *Podcasts*, *Magazines*, *Blogs*, *IDEs*, *Text Editors*, *Version Control Systems*.
 
 ------------------------------------------------------------------------
 
