@@ -129,6 +129,7 @@
 
 ### Fonts
 
+-   [Font Squirrel](http://www.fontsquirrel.com/)
 -   [Da Font](http://dafont.com/)
 -   [Google Fonts](http://www.google.com/fonts)
 -   [FontForge](http://fontforge.github.io/)
