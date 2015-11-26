@@ -1,5 +1,7 @@
 ## Everchanging List of Game Development Resources
 
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 ### Table of Contents:
 
 1.  [Engines / Frameworks](#engines--frameworks)
@@ -27,6 +29,7 @@
 -   [BabylonJS](http://babylonjs.com/)
 -   [Cocos2D](http://www.cocos2d-x.org/)
 -   [Construct](https://www.scirra.com/construct2/)
+-   [CopperCube](http://ambiera.com/coppercube/)
 -   [CraftStudio](http://craftstud.io/)
 -   [Dash](http://dash.circularstudios.com/)
 -   [Duality](http://duality.adamslair.net/)
@@ -37,19 +40,22 @@
 -   [Godot](http://godotengine.org/)
 -   [Goo Create](http://goocreate.com/)
 -   [jMonkeyEngine](http://jmonkeyengine.org/)
+-   [Leadwerks](http://leadwerks.com/)
 -   [Love2D](https://love2d.org/)
 -   [Marmalade](https://www.madewithmarmalade.com/)
 -   [MonoGame](http://www.monogame.net/)
+-   [NeoAxis](http://www.neoaxis.com/)
 -   [Paradox](http://paradox3d.net/)
 -   [Phaser](http://phaser.io/)
 -   [Pixi.js](http://www.pixijs.com/)
 -   [PlayCanvas](http://playcanvas.com/)
+-   [Pygame](http://pygame.org/)
 -   [Ren’Py](http://www.renpy.org/)
 -   [Stencyl](http://www.stencyl.com/)
 -   [Superpowers](https://sparklinlabs.com/)
 -   [Torque 3D](http://torque3d.org/)
 -   [Unity3D](http://unity3d.com/)
--   [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)
+-   [Unreal Engine](https://www.unrealengine.com/)
 -   [WiMi5](http://wimi5.com/)
 
 ### Assets / Placeholders
