@@ -18,8 +18,9 @@
 12. [Utils](#utils)
 13. [Fonts](#fonts)
 14. [Icons](#icons)
-15. [Project Management Applications](#project-management-applications)
-16. [Time Management Methods](#time-management-methods)
+15. [Real-time Team Communication](#real-time-team-communication)
+16. [Project Management Applications](#project-management-applications)
+17. [Time Management Methods](#time-management-methods)
 
 ------------------------------------------------------------------------
 
@@ -144,6 +145,10 @@
 
 -   [GameIcons](http://game-icons.net/)
 -   [Iconfinder](https://www.iconfinder.com/)
+
+### Real-time Team Communication
+
+-   [Slack](https://slack.com/)
 
 ### Project Management Applications
 
