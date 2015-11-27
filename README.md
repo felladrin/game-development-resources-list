@@ -14,13 +14,14 @@
 8.  [2D Animation](#2d-animation)
 9.  [3D Modeling](#3d-modeling)
 10. [Idea Generators](#idea-generators)
-11. [Color Scheme Designers](#color-scheme-designers)
-12. [Utils](#utils)
-13. [Fonts](#fonts)
-14. [Icons](#icons)
-15. [Real-time Team Communication](#real-time-team-communication)
-16. [Project Management Applications](#project-management-applications)
-17. [Time Management Methods](#time-management-methods)
+11. [Pixel Editors](#pixel-editors)
+12. [Color Scheme Designers](#color-scheme-designers)
+13. [Utils](#utils)
+14. [Fonts](#fonts)
+15. [Icons](#icons)
+16. [Real-time Team Communication](#real-time-team-communication)
+17. [Project Management Applications](#project-management-applications)
+18. [Time Management Methods](#time-management-methods)
 
 ------------------------------------------------------------------------
 
@@ -122,6 +123,10 @@
 -   [Orteil's Game Idea Generator](http://orteil.dashnet.org/gamegen)
 -   [Board Game Design Idea Generator](http://www.boardgamizer.com/)
 
+### Pixel Editors
+
+-   [Piskel](http://www.piskelapp.com/)
+
 ### Color Scheme Designers
 
 -   [Paletton](http://paletton.com/)
@@ -136,8 +141,8 @@
 
 ### Fonts
 
--   [Font Squirrel](http://www.fontsquirrel.com/)
 -   [Da Font](http://dafont.com/)
+-   [Font Squirrel](http://www.fontsquirrel.com/)
 -   [Google Fonts](http://www.google.com/fonts)
 -   [FontForge](http://fontforge.github.io/)
 
