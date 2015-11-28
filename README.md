@@ -5,23 +5,23 @@
 ### Table of Contents:
 
 1.  [Engines / Frameworks](#engines--frameworks)
-2.  [Assets / Placeholders](#assets--placeholders)
-3.  [Royalty Free Sounds](#royalty-free-sounds)
-4.  [Creative Commons licensed Music](#creative-commons-licensed-music)
-5.  [Sound Generators](#sound-generators)
-6.  [Audio Sequencers](#audio-sequencers)
-7.  [Audio Composing Tools](#audio-composing-tools)
-8.  [2D Animation](#2d-animation)
-9.  [3D Modeling](#3d-modeling)
-10. [Pixel Editors](#pixel-editors)
-11. [Color Scheme Designers](#color-scheme-designers)
-12. [Utils](#utils)
-13. [Fonts](#fonts)
-14. [Icons](#icons)
-15. [Idea Generators](#idea-generators)
-16. [Real-time Team Communication](#real-time-team-communication)
-17. [Project Management Applications](#project-management-applications)
-18. [Time Management Methods](#time-management-methods)
+1.  [Assets / Placeholders](#assets--placeholders)
+1.  [Royalty Free Sounds](#royalty-free-sounds)
+1.  [Royalty Free Music](#royalty-free-music)
+1.  [Sound Generators](#sound-generators)
+1.  [Audio Sequencers](#audio-sequencers)
+1.  [Audio Composing Tools](#audio-composing-tools)
+1.  [2D Animation](#2d-animation)
+1.  [3D Modeling](#3d-modeling)
+1.  [Pixel Editors](#pixel-editors)
+1.  [Color Scheme Designers](#color-scheme-designers)
+1.  [Utils](#utils)
+1.  [Fonts](#fonts)
+1.  [Icons](#icons)
+1.  [Idea Generators](#idea-generators)
+1.  [Real-time Team Communication](#real-time-team-communication)
+1.  [Project Management Applications](#project-management-applications)
+1.  [Time Management Methods](#time-management-methods)
 
 ------------------------------------------------------------------------
 
@@ -76,10 +76,11 @@
 -   [Freesound](https://www.freesound.org/)
 -   [SoundBible](http://soundbible.com/)
 
-### Creative Commons licensed Music
+### Royalty Free Music
 
 -   [Imcompetech](http://incompetech.com/)
 -   [Newgrounds Audio Portal](http://www.newgrounds.com/audio/)
+-   [Musopen](https://musopen.org/)
 -   [Sound Image](http://soundimage.org/)
 -   [Soundcloud To Use Commercially](https://soundcloud.com/search/sounds?q=a&filter.license=to_use_commercially)
 
