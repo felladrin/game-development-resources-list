@@ -83,6 +83,7 @@
 -   [Imcompetech](http://incompetech.com/)
 -   [Newgrounds Audio Portal](http://www.newgrounds.com/audio/)
 -   [Musopen](https://musopen.org/)
+-   [Looperman](http://www.looperman.com/)
 -   [Sound Image](http://soundimage.org/)
 -   [Soundcloud To Use Commercially](https://soundcloud.com/search/sounds?q=a&filter.license=to_use_commercially)
 
