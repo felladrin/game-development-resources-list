@@ -49,6 +49,7 @@
 -   [Marmalade](https://www.madewithmarmalade.com/)
 -   [MonoGame](http://www.monogame.net/)
 -   [NeoAxis](http://www.neoaxis.com/)
+-   [Panda3D](https://www.panda3d.org/)
 -   [Paradox](http://paradox3d.net/)
 -   [Phaser](http://phaser.io/)
 -   [Pixi.js](http://www.pixijs.com/)
