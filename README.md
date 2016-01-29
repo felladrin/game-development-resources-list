@@ -57,7 +57,7 @@
 -   [Pygame](http://pygame.org/)
 -   [Ren’Py](http://www.renpy.org/)
 -   [Stencyl](http://www.stencyl.com/)
--   [Superpowers](https://sparklinlabs.com/)
+-   [Superpowers](http://superpowers-html5.com/)
 -   [Torque 3D](http://torque3d.org/)
 -   [Unity3D](http://unity3d.com/)
 -   [Unreal Engine](https://www.unrealengine.com/)
