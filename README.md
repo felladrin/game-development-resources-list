@@ -92,6 +92,7 @@
 
 -   [as3sfxr](http://www.superflashbros.net/as3sfxr/)
 -   [Bfxr](http://www.bfxr.net/)
+-   [Chiptone](http://sfbgames.com/chiptone/)
 
 ### Audio Sequencers
 
