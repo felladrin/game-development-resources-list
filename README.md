@@ -14,6 +14,7 @@
 1.  [2D Animation](#2d-animation)
 1.  [3D Modeling](#3d-modeling)
 1.  [Pixel Editors](#pixel-editors)
+1.  [Voxel Editors](#voxel-editors)
 1.  [Color Scheme Designers](#color-scheme-designers)
 1.  [Utils](#utils)
 1.  [Fonts](#fonts)
@@ -127,6 +128,10 @@
 ### Pixel Editors
 
 -   [Piskel](http://www.piskelapp.com/)
+
+### Voxel Editors
+
+-   [MagicaVoxel](https://ephtracy.github.io)
 
 ### Color Scheme Designers
 
