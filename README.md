@@ -60,6 +60,7 @@
 -   [Stencyl](http://www.stencyl.com/)
 -   [Superpowers](http://superpowers-html5.com/)
 -   [Torque 3D](http://torque3d.org/)
+-   [Turbulenz](http://biz.turbulenz.com/developers)
 -   [Unity3D](http://unity3d.com/)
 -   [Unreal Engine](https://www.unrealengine.com/)
 -   [WiMi5](http://wimi5.com/)
