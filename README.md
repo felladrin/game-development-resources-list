@@ -173,6 +173,7 @@
 
 ### Real-time Team Communication
 
+-   [Discord](https://discordapp.com/)
 -   [Slack](https://slack.com/)
 
 ### Project Management Applications
