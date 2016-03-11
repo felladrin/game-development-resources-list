@@ -121,6 +121,7 @@
 
 ### 2D Animation
 
+-   [COA Tools](https://github.com/ndee85/coa_tools)
 -   [Spriter](http://www.brashmonkey.com/spriter.htm)
 
 ### 3D Modeling
