@@ -139,6 +139,7 @@
 
 ### Voxel Editors
 
+-   [Goxel](https://github.com/guillaumechereau/goxel)
 -   [MagicaVoxel](https://ephtracy.github.io)
 
 ### Color Scheme Designers
