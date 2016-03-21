@@ -63,6 +63,7 @@
 -   [Pixi.js](http://www.pixijs.com/)
 -   [PlayCanvas](http://playcanvas.com/)
 -   [Pygame](http://pygame.org/)
+-   [QICI Engine](https://github.com/qiciengine/qiciengine)
 -   [Ren’Py](http://www.renpy.org/)
 -   [Starling](http://gamua.com/starling/)
 -   [Stencyl](http://www.stencyl.com/)
