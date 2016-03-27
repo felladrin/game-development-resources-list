@@ -52,6 +52,7 @@
 -   [HaxePunk](http://haxepunk.com/)
 -   [jMonkeyEngine](http://jmonkeyengine.org/)
 -   [Leadwerks](http://leadwerks.com/)
+-   [Libgdx](https://libgdx.badlogicgames.com/)
 -   [Love2D](https://love2d.org/)
 -   [Lumberyard](https://aws.amazon.com/pt/lumberyard/)
 -   [Marmalade](https://www.madewithmarmalade.com/)
