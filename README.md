@@ -40,6 +40,7 @@
 -   [Corona](https://coronalabs.com/)
 -   [CraftStudio](http://craftstud.io/)
 -   [Dash](http://dash.circularstudios.com/)
+-   [Defold](http://www.defold.com/)
 -   [Duality](http://duality.adamslair.net/)
 -   [Flambe](http://getflambe.com/)
 -   [Flixel](http://flixel.org/)
