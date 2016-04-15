@@ -145,6 +145,7 @@
 ### Pixel Editors
 
 -   [Piskel](http://www.piskelapp.com/)
+-   [Pyxel Edit](http://pyxeledit.com/)
 
 ### Voxel Editors
 
