@@ -138,6 +138,7 @@
 -   [Blender](http://www.blender.org/)
 -   [Clara.io](https://clara.io/)
 -   [MakeHuman](http://www.makehuman.org/)
+-   [Sculptris](http://pixologic.com/sculptris/)
 -   [SketchUp](http://www.sketchup.com/)
 -   [Wings 3D](http://www.wings3d.com/)
 
