@@ -144,6 +144,7 @@
 
 ### Pixel Editors
 
+-   [Pickle](http://www.pickleeditor.com/)
 -   [Piskel](http://www.piskelapp.com/)
 -   [Pyxel Edit](http://pyxeledit.com/)
 
