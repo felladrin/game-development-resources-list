@@ -124,6 +124,7 @@
 -   [Audacity](http://audacity.sourceforge.net/)
 -   [Audiotool](http://www.audiotool.com/)
 -   [BeepBox](http://www.beepbox.co/)
+-   [Bosca Ceoil](http://online.boscaceoil.net/)
 -   [LMMS](https://lmms.io/)
 -   [MilkyTracker](http://www.milkytracker.org/)
 
