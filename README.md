@@ -156,8 +156,9 @@
 
 ### Color Scheme Designers
 
--   [Paletton](http://paletton.com/)
 -   [Adobe Color](https://color.adobe.com/)
+-   [Color Ramp Creator](http://www.pixelfor.me/crc/)
+-   [Paletton](http://paletton.com/)
 
 ### Utils
 
