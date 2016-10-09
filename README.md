@@ -59,6 +59,7 @@
 - [Love2D](https://love2d.org/)
 - [Lumberyard](https://aws.amazon.com/pt/lumberyard/)
 - [Marmalade](https://www.madewithmarmalade.com/)
+- [META](http://meta2d.com/)
 - [MonoGame](http://www.monogame.net/)
 - [Murl Engine](http://murlengine.com/)
 - [NeoAxis](http://www.neoaxis.com/)
