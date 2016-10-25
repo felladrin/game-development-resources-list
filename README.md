@@ -43,6 +43,7 @@
 - [Dash](http://dash.circularstudios.com/)
 - [Defold](http://www.defold.com/)
 - [Duality](http://duality.adamslair.net/)
+- [Excalibur](http://excaliburjs.com/)
 - [Flambe](http://getflambe.com/)
 - [Flixel](http://flixel.org/)
 - [GameMaker](http://yoyogames.com/)
