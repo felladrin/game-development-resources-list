@@ -88,9 +88,10 @@
 
 - [ArtSader](http://www.moosader.com/artsader/)
 - [Blend Swap](http://www.blendswap.com/)
-- [Textures.com](http://www.textures.com/)
+- [Epic Art & Assets Collection](https://bakudas.itch.io/epic-art-assets-collection)
 - [Kenney Assets](http://kenney.nl/assets/)
 - [OpenGameArt](http://opengameart.org/)
+- [Superpowers Mega Asset Pack](https://sparklinlabs.itch.io/superpowers)
 - [The Open Bundle](http://open.commonly.cc/)
 - [TurboSquid](http://turbosquid.com/)
 
