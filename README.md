@@ -66,7 +66,6 @@
 - [NeoAxis](http://www.neoaxis.com/)
 - [OpenFL](http://www.openfl.org/)
 - [Panda3D](https://www.panda3d.org/)
-- [Paradox](http://paradox3d.net/)
 - [Phaser](http://phaser.io/)
 - [PICO-8](http://www.lexaloffle.com/pico-8.php)
 - [Pixi.js](http://www.pixijs.com/)
