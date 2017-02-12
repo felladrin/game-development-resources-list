@@ -73,6 +73,7 @@
 - [Pygame](http://pygame.org/)
 - [QICI Engine](https://github.com/qiciengine/qiciengine)
 - [Ren’Py](http://www.renpy.org/)
+- [Spark](http://spark.tools/)
 - [Starling](http://gamua.com/starling/)
 - [Stencyl](http://www.stencyl.com/)
 - [Superpowers](http://superpowers-html5.com/)
