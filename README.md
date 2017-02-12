@@ -82,6 +82,7 @@
 - [Unity3D](http://unity3d.com/)
 - [Unreal Engine](https://www.unrealengine.com/)
 - [V-Play](http://v-play.net/)
+- [Voxel.js](http://voxeljs.com/)
 - [WiMi5](http://wimi5.com/)
 - [Xenko](http://xenko.com/)
 
