@@ -52,6 +52,7 @@
 - [GameBuilder Studio](https://gamebuilderstudio.com/)
 - [GameMaker](http://yoyogames.com/)
 - [GameSalad](http://gamesalad.com/)
+- [Game Closure](http://www.gameclosure.com/)
 - [GDevelop](http://compilgames.net/)
 - [Godot](http://godotengine.org/)
 - [Goo Create](http://goocreate.com/)
