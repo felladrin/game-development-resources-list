@@ -60,6 +60,7 @@
 - [HaxeFlixel](http://haxeflixel.com/)
 - [HaxePunk](http://haxepunk.com/)
 - [Haxor](http://haxor.xyz/)
+- [Impact](http://impactjs.com/)
 - [Irrlicht Engine](http://irrlicht.sourceforge.net/)
 - [jMonkeyEngine](http://jmonkeyengine.org/)
 - [Leadwerks](http://leadwerks.com/)
