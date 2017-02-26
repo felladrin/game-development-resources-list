@@ -42,6 +42,7 @@
 - [CopperCube](http://ambiera.com/coppercube/)
 - [Corona](https://coronalabs.com/)
 - [CraftStudio](http://craftstud.io/)
+- [Crafty](http://craftyjs.com/)
 - [Dash](http://dash.circularstudios.com/)
 - [Defold](http://www.defold.com/)
 - [Delta Engine](https://www.deltaengine.net/)
