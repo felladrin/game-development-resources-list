@@ -83,6 +83,7 @@
 - [Pygame](http://pygame.org/)
 - [QICI Engine](https://github.com/qiciengine/qiciengine)
 - [Ren’Py](http://www.renpy.org/)
+- [ShiVa](http://www.shiva-engine.com/)
 - [Solarus](http://www.solarus-games.org/)
 - [Spark](http://spark.tools/)
 - [Starling](http://gamua.com/starling/)
