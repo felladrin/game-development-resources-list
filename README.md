@@ -48,7 +48,7 @@
 - [Delta Engine](https://www.deltaengine.net/)
 - [Duality](http://duality.adamslair.net/)
 - [Excalibur](http://excaliburjs.com/)
-- [Flambe](http://getflambe.com/)
+- [Flambe](https://github.com/aduros/flambe)
 - [Flixel](http://flixel.org/)
 - [GameBuilder Studio](https://gamebuilderstudio.com/)
 - [GameMaker](http://yoyogames.com/)
