@@ -223,6 +223,8 @@
 
 ### Project Management Applications
 
+- [Favro](https://favro.com)
+- [JIRA](https://www.atlassian.com/software/jira)
 - [Trello](http://trello.com/)
 
 ### Mockups / Collaborative Drawing
