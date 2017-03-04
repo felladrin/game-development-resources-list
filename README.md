@@ -112,6 +112,7 @@
 - [Blend Swap](http://www.blendswap.com/)
 - [Epic Art & Assets Collection](https://bakudas.itch.io/epic-art-assets-collection)
 - [Kenney Assets](http://kenney.nl/assets/)
+- [Mobile Game GUI](http://graphicburger.com/mobile-game-gui/)
 - [OpenGameArt](http://opengameart.org/)
 - [Superpowers Mega Asset Pack](https://sparklinlabs.itch.io/superpowers)
 - [The Open Bundle](http://open.commonly.cc/)
@@ -207,6 +208,7 @@
 
 - [GameIcons](http://game-icons.net/)
 - [Iconfinder](https://www.iconfinder.com/)
+- [Iconmonstr](http://iconmonstr.com/)
 
 ### Idea Generators
 
