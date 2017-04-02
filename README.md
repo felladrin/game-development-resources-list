@@ -154,6 +154,7 @@
 ### Audio Composing Tools
 
 - [Audacity](http://audacity.sourceforge.net/)
+- [Ardour](https://ardour.org/)
 - [Audiotool](http://www.audiotool.com/)
 - [BeepBox](http://www.beepbox.co/)
 - [Bosca Ceoil](http://online.boscaceoil.net/)
