@@ -121,6 +121,7 @@
 - [Superpowers Mega Asset Pack](https://sparklinlabs.itch.io/superpowers)
 - [The Open Bundle](http://open.commonly.cc/)
 - [TurboSquid](http://turbosquid.com/)
+- [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 
 ### Royalty Free Sounds
 
