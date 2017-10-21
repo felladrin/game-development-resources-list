@@ -236,6 +236,7 @@
 
 - [Favro](https://favro.com)
 - [JIRA](https://www.atlassian.com/software/jira)
+- [MeisterTask](https://www.meistertask.com/)
 - [Trello](http://trello.com/)
 
 ### Mockups / Collaborative Drawing
