@@ -132,6 +132,7 @@
 - [FreeSFX](http://www.freesfx.co.uk/)
 - [Freesound](https://www.freesound.org/)
 - [SoundBible](http://soundbible.com/)
+- [FreeSoundEffects](https://www.freesoundeffects.com/)
 - [Super Dialogue Audio Pack](https://stuckeast.itch.io/sdap)
 
 ### Royalty Free Music
