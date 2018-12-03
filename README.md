@@ -20,10 +20,7 @@
 1. [Fonts](#fonts)
 1. [Icons](#icons)
 1. [Idea Generators](#idea-generators)
-1. [Real-time Team Communication](#real-time-team-communication)
-1. [Project Management Applications](#project-management-applications)
 1. [Mockups / Collaborative Drawing](#mockups--collaborative-drawing)
-1. [Time Management Methods](#time-management-methods)
 
 ------------------------------------------------------------------------
 
