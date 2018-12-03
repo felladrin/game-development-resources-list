@@ -123,7 +123,6 @@
 - [Mobile Game GUI](http://graphicburger.com/mobile-game-gui/)
 - [OpenGameArt](http://opengameart.org/)
 - [Superpowers Mega Asset Pack](https://sparklinlabs.itch.io/superpowers)
-- [The Open Bundle](http://open.commonly.cc/)
 - [TurboSquid](http://turbosquid.com/)
 - [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 
@@ -157,7 +156,6 @@
 - [Sound Matrix](http://www.sembeo.com/sound-matrix/)
 - [Superlooper](http://superlooper.universlabs.co.uk/)
 - [Tone Matrix](http://tonematrix.audiotool.com/)
-- [Tonfall Sequencer](http://blog.soulwire.co.uk/wp-content/uploads/2010/10/tonfall-sequencer.swf)
 
 ### Audio Composing Tools
 
@@ -228,30 +226,14 @@
 - [Board Game Design Idea Generator](http://www.boardgamizer.com/)
 - [Gavin's Absurd Game Idea Generator](http://critsandvich.com/random/gameideas.html)
 
-### Real-time Team Communication
-
-- [Discord](https://discordapp.com/)
-- [Slack](https://slack.com/)
-
-### Project Management Applications
-
-- [Favro](https://favro.com)
-- [JIRA](https://www.atlassian.com/software/jira)
-- [MeisterTask](https://www.meistertask.com/)
-- [Trello](http://trello.com/)
-
 ### Mockups / Collaborative Drawing
 
 - [A Web Whiteboard](https://awwapp.com/)
 - [Draw.io](https://www.draw.io/)
 
-### Time Management Methods
-
-- [Pomodoro Technique](http://pomodorotechnique.com/)
-
 ------------------------------------------------------------------------
 
-Things that would not fit in this list: *Articles*, *Books*, *Videos*, *Podcasts*, *Magazines*, *Blogs*, *IDEs*, *Text Editors*, *Version Control Systems*.
+Things that would not fit in this list: *Articles*, *Books*, *Videos*, *Podcasts*, *Magazines*, *Blogs*, *IDEs*, *Text Editors*, *Version Control Systems*, *Time Management Methods*, *Real-time Team Communication*, *Project Management Applications*.
 
 ------------------------------------------------------------------------
 
