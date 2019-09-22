@@ -64,6 +64,7 @@
 - [Irrlicht Engine](http://irrlicht.sourceforge.net/)
 - [jMonkeyEngine](http://jmonkeyengine.org/)
 - [KiwiJS](https://www.kiwijs.org/)
+- [Kontra](https://straker.github.io/kontra/)
 - [Leadwerks](https://leadwerks.com/)
 - [Libgdx](https://libgdx.badlogicgames.com/)
 - [LimeJS](https://www.limejs.com/)
