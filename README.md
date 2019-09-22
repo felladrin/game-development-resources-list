@@ -182,6 +182,11 @@
 ### Color Scheme Designers
 
 - [Adobe Color](https://color.adobe.com/)
+- [Coolors](https://coolors.co/)
+- [Colormind](http://colormind.io/)
+- [Colorhunt](https://colorhunt.co/)
+- [ColorSpace](https://mycolor.space/)
+- [Colrd](http://colrd.com/)
 - [Paletton](https://paletton.com/)
 
 ### Utils
