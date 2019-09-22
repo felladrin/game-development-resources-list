@@ -29,42 +29,40 @@
 - [Adventure Game Studio](https://www.adventuregamestudio.co.uk/)
 - [BabylonJS](https://www.babylonjs.com/)
 - [BabylonHx](https://babylonhx.gamestudiohx.com/)
-- [Bacon2D](https://bacon2d.com/)
 - [Bladecoder Adventure Engine](https://github.com/bladecoder/bladecoder-adventure-engine)
 - [Banshee 3D](https://www.banshee3d.com/)
 - [Cafu Engine](https://www.cafu.de/)
 - [Castle](https://castle-engine.io/)
-- [Citrus](https://citrusengine.com/)
+- [Citrus](http://citrusengine.com/)
 - [ClanFX](https://sourceforge.net/projects/clanfx/)
 - [Clickteam Fusion](https://www.clickteam.com/clickteam-fusion-2-5)
 - [Cocos2D](https://www.cocos2d-x.org/)
-- [Construct](https://www.scirra.com/construct2/)
+- [Construct](https://www.scirra.com/)
 - [CopperCube](https://ambiera.com/coppercube/)
 - [Corona](https://coronalabs.com/)
-- [CraftStudio](https://craftstud.io/)
-- [Crafty](https://craftyjs.com/)
+- [CraftStudio](https://sparklinlabs.itch.io/craftstudio)
+- [Crafty](http://craftyjs.com/)
 - [Dash](https://dash.circularstudios.com/)
 - [Defold](https://www.defold.com/)
-- [Delta Engine](https://www.deltaengine.net/)
-- [Duality](https://duality.adamslair.net/)
+- [Delta Engine](https://deltaengine.net/)
+- [Duality](https://www.duality2d.net/)
 - [Excalibur](https://excaliburjs.com/)
+- [Felgo](https://felgo.com/)
 - [Flambe](https://github.com/aduros/flambe)
-- [Flixel](https://flixel.org/)
+- [Flixel](http://flixel.org/)
 - [FUSEE](https://fusee3d.org/)
-- [GameBuilder Studio](https://gamebuilderstudio.com/)
+- [GameBuilder Studio](http://gamebuilderstudio.com/)
 - [GameMaker](https://yoyogames.com/)
 - [GameSalad](https://gamesalad.com/)
 - [Game Closure](https://www.gameclosure.com/)
-- [GDevelop](https://compilgames.net/)
-- [Gideros Mobile](https://giderosmobile.com/)
+- [GDevelop](https://gdevelop-app.com/)
+- [Gideros Mobile](http://giderosmobile.com/)
 - [Godot](https://godotengine.org/)
-- [Goo Create](https://goocreate.com/)
 - [HaxeFlixel](https://haxeflixel.com/)
 - [HaxePunk](https://haxepunk.com/)
-- [Haxor](https://haxor.xyz/)
 - [Impact](https://impactjs.com/)
-- [Irrlicht Engine](https://irrlicht.sourceforge.net/)
-- [jMonkeyEngine](https://jmonkeyengine.org/)
+- [Irrlicht Engine](http://irrlicht.sourceforge.net/)
+- [jMonkeyEngine](http://jmonkeyengine.org/)
 - [KiwiJS](https://www.kiwijs.org/)
 - [Leadwerks](https://leadwerks.com/)
 - [Libgdx](https://libgdx.badlogicgames.com/)
@@ -72,61 +70,55 @@
 - [Love2D](https://love2d.org/)
 - [Lumberyard](https://aws.amazon.com/pt/lumberyard/)
 - [LumixEngine](https://github.com/nem0/lumixengine)
-- [Marmalade](https://www.madewithmarmalade.com/)
 - [META](https://meta2d.com/)
-- [MelonJS](https://melonjs.org/)
-- [MonoGame](https://www.monogame.net/)
+- [MelonJS](http://melonjs.org/)
+- [MonoGame](http://www.monogame.net/)
 - [Murl Engine](https://murlengine.com/)
 - [NeoAxis](https://www.neoaxis.com/)
 - [OpenFL](https://www.openfl.org/)
-- [Overlap2D](https://overlap2d.com/)
 - [Panda3D](https://www.panda3d.org/)
 - [Phaser](https://phaser.io/)
 - [PICO-8](https://www.lexaloffle.com/pico-8.php)
-- [Pixel Vision 8](https://pixelvision8.itch.io/game-creator)
+- [Pixel Vision 8](https://pixelvision8.itch.io/pv8)
 - [Pixi.js](https://www.pixijs.com/)
 - [Piston](https://www.piston.rs/)
 - [PlayCanvas](https://playcanvas.com/)
-- [Pygame](https://pygame.org/)
+- [Pygame](https://www.pygame.org/)
 - [QICI Engine](https://github.com/qiciengine/qiciengine)
 - [Ren’Py](https://www.renpy.org/)
-- [ShiVa](https://www.shiva-engine.com/)
+- [ShiVa](https://shiva-engine.com/)
 - [Solarus](https://www.solarus-games.org/)
-- [Spark](https://spark.tools/)
-- [Splat](https://splatjs.com/)
 - [Starling](https://gamua.com/starling/)
-- [Stencyl](https://www.stencyl.com/)
-- [Superpowers](https://superpowers-html5.com/)
-- [TIC-80](https://nesbox.com/tic/)
+- [Stencyl](http://www.stencyl.com/)
+- [Superpowers](http://superpowers-html5.com/)
+- [TIC-80](https://tic.computer/)
 - [Torque 3D](https://torque3d.org/)
-- [Turbulenz](https://biz.turbulenz.com/developers)
-- [Tululoo](https://www.tululoo.com/)
-- [Unity3D](https://unity3d.com/)
+- [Turbulenz](http://biz.turbulenz.com/developers)
+- [Tululoo](http://www.tululoo.com/)
+- [Unity](https://unity.com/)
 - [Unreal Engine](https://www.unrealengine.com/)
 - [Urho3D](https://urho3d.github.io/)
-- [V-Play](https://v-play.net/)
-- [Voxel.js](https://voxeljs.com/)
-- [WiMi5](https://wimi5.com/)
+- [Voxel.js](http://voxeljs.com/)
 - [Xenko](https://xenko.com/)
 
 ### Assets / Placeholders
 
-- [ArtSader](https://www.moosader.com/artsader/)
+- [ArtSader](https://www.moosader.com/archive/artsader/)
 - [Blend Swap](https://www.blendswap.com/)
 - [Epic Art & Assets Collection](https://bakudas.itch.io/epic-art-assets-collection)
 - [Kenney Assets](https://kenney.nl/assets/)
 - [Mobile Game GUI](https://graphicburger.com/mobile-game-gui/)
 - [OpenGameArt](https://opengameart.org/)
 - [Superpowers Mega Asset Pack](https://sparklinlabs.itch.io/superpowers)
-- [TurboSquid](https://turbosquid.com/)
+- [TurboSquid](https://www.turbosquid.com/)
 
 ### Royalty Free Sounds
 
 - [FreeSFX](https://www.freesfx.co.uk/)
-- [Freesound](https://www.freesound.org/)
+- [Freesound](https://freesound.org/)
 - [SoundBible](https://soundbible.com/)
 - [FreeSoundEffects](https://www.freesoundeffects.com/)
-- [Super Dialogue Audio Pack](https://stuckeast.itch.io/sdap)
+- [Super Dialogue Audio Pack](https://jumpcut.itch.io/sdap)
 
 ### Royalty Free Music
 
@@ -145,40 +137,39 @@
 
 ### Audio Sequencers
 
-- [Circuli](https://www.earslap.com/page/circuli.html)
-- [Otomata](https://www.earslap.com/page/otomata.html)
-- [Sound Matrix](https://www.sembeo.com/sound-matrix/)
+- [SoundBox](https://sb.bitsnbites.eu/)
 - [Superlooper](https://superlooper.universlabs.co.uk/)
 - [Tone Matrix](https://tonematrix.audiotool.com/)
 
 ### Audio Composing Tools
 
-- [Audacity](https://audacity.sourceforge.net/)
+- [Audacity](https://sourceforge.net/projects/audacity/)
 - [Ardour](https://ardour.org/)
 - [Audiotool](https://www.audiotool.com/)
 - [BeepBox](https://www.beepbox.co/)
 - [Bosca Ceoil](https://online.boscaceoil.net/)
 - [LMMS](https://lmms.io/)
-- [MilkyTracker](https://www.milkytracker.org/)
+- [MilkyTracker](https://milkytracker.titandemo.org/)
 
 ### 2D Animation
 
 - [COA Tools](https://github.com/ndee85/coa_tools)
-- [Spriter](https://www.brashmonkey.com/spriter.htm)
+- [Spine](http://pt.esotericsoftware.com/)
+- [Spriter](https://brashmonkey.com/)
 
 ### 3D Modeling
 
-- [3D-Coat](https://3d-coat.com/)
+- [3D-Coat](https://3dcoat.com/)
 - [Blender](https://www.blender.org/)
 - [Clara.io](https://clara.io/)
-- [MakeHuman](https://www.makehuman.org/)
+- [MakeHuman](http://makehumancommunity.org/)
 - [Sculptris](https://pixologic.com/sculptris/)
 - [SketchUp](https://www.sketchup.com/)
-- [Wings 3D](https://www.wings3d.com/)
+- [Wings 3D](http://www.wings3d.com/)
 
 ### Pixel Editors
 
-- [Pickle](https://www.pickleeditor.com/)
+- [Pickle](http://www.pickleeditor.com/)
 - [Piskel](https://www.piskelapp.com/)
 - [Pyxel Edit](https://pyxeledit.com/)
 
@@ -190,23 +181,22 @@
 ### Color Scheme Designers
 
 - [Adobe Color](https://color.adobe.com/)
-- [Color Ramp Creator](https://www.pixelfor.me/crc/)
 - [Paletton](https://paletton.com/)
 
 ### Utils
 
 - [Mindmup](https://www.mindmup.com)
-- [Spacescape](https://alexcpeterson.com/spacescape)
-- [Button Generator](https://buttonoptimizer.com/)
+- [Spacescape](https://github.com/petrocket/spacescape)
+- [Button Generator](http://buttonoptimizer.com/)
 - [Repl.it](https://repl.it/languages)
 - [Twine](https://twinery.org/)
 
 ### Fonts
 
-- [Da Font](https://dafont.com/)
+- [Da Font](https://www.dafont.com/)
 - [FontForge](https://fontforge.github.io/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
-- [Google Fonts](https://www.google.com/fonts)
+- [Google Fonts](https://fonts.google.com/)
 
 ### Icons
 
@@ -217,8 +207,8 @@
 ### Idea Generators
 
 - [Orteil's Game Idea Generator](https://orteil.dashnet.org/gamegen)
-- [Board Game Design Idea Generator](https://www.boardgamizer.com/)
-- [Gavin's Absurd Game Idea Generator](https://critsandvich.com/random/gameideas.html)
+- [Board Game Design Idea Generator](http://www.boardgamizer.com/)
+- [Gavin's Absurd Game Idea Generator](http://critsandvich.com/random/gameideas.html)
 
 ### Mockups / Collaborative Drawing
 
@@ -231,4 +221,4 @@ Things that would not fit in this list: *Articles*, *Books*, *Videos*, *Podcasts
 
 ------------------------------------------------------------------------
 
-One-click sharing links for this page: [Twitter](https://twitter.com/home?status=https://github.com/felladrin/game-development-resources-list) · [Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=https://github.com/felladrin/game-development-resources-list&p%5Bimages%5D%5B0%5D=&p%5Btitle%5D=Everchanging%20List%20of%20Game%20Development%20Resources&p%5Bsummary%5D=) · [G+](https://plus.google.com/share?url=https://github.com/felladrin/game-development-resources-list) · [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/felladrin/game-development-resources-list&title=Everchanging%20List%20of%20Game%20Development%20Resources&summary=&source=)
+One-click sharing links for this page: [Twitter](https://twitter.com/home?status=https://github.com/felladrin/game-development-resources-list) · [Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=https://github.com/felladrin/game-development-resources-list&p%5Bimages%5D%5B0%5D=&p%5Btitle%5D=Everchanging%20List%20of%20Game%20Development%20Resources&p%5Bsummary%5D=) · [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/felladrin/game-development-resources-list&title=Everchanging%20List%20of%20Game%20Development%20Resources&summary=&source=)
