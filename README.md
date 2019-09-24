@@ -166,6 +166,7 @@
 - [MakeHuman](http://makehumancommunity.org/)
 - [Sculptris](https://pixologic.com/sculptris/)
 - [SketchUp](https://www.sketchup.com/)
+- [SpriteStack](https://spritestack.io/)
 - [Wings 3D](http://www.wings3d.com/)
 
 ### Pixel Editors
