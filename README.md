@@ -80,7 +80,7 @@
 - [Panda3D](https://www.panda3d.org/)
 - [Phaser](https://phaser.io/)
 - [PICO-8](https://www.lexaloffle.com/pico-8.php)
-- [Pixel Vision 8](https://pixelvision8.itch.io/pv8)
+- [Pixel Vision 8](https://www.pixelvision8.com)
 - [Pixi.js](https://www.pixijs.com/)
 - [Piston](https://www.piston.rs/)
 - [PlayCanvas](https://playcanvas.com/)
@@ -213,7 +213,7 @@
 
 ### Idea Generators
 
-- [Orteil's Game Idea Generator](https://orteil.dashnet.org/gamegen)
+- [Orteil's Game Idea Generator](http://orteil.dashnet.org/gamegen)
 - [Board Game Design Idea Generator](http://www.boardgamizer.com/)
 - [Gavin's Absurd Game Idea Generator](http://critsandvich.com/random/gameideas.html)
 
