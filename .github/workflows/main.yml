@@ -1,0 +1,14 @@
+name: CI
+on: [push]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: Validade links in markdown files
+        uses: nolte/github-action/markdown/validate@v0.1.0
+        with:
+          args: "--frail" # task fails if warnings exists.
