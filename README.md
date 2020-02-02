@@ -213,7 +213,7 @@
 
 ### Idea Generators
 
-- [Orteil's Game Idea Generator](http://tiny.cc/u0nhjz)
+- [Orteil's Game Idea Generator](https://dashnet.org/orteil/gamegen)
 - [Board Game Design Idea Generator](http://www.boardgamizer.com/)
 - [Gavin's Absurd Game Idea Generator](http://critsandvich.com/random/gameideas.html)
 
