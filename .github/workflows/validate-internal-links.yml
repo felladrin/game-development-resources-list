@@ -1,14 +1,14 @@
-name: CI
+name: Internal Links Validator
 on: [push]
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Check out the repository
         uses: actions/checkout@v2
         with:
           fetch-depth: 1
-      - name: Validade links in markdown files
+      - name: Validade internal links
         uses: nolte/github-action/markdown/validate@v0.1.0
         with:
-          args: "--frail" # task fails if warnings exists.
+          args: "--frail"
