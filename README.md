@@ -71,7 +71,6 @@
 - [Love2D](https://love2d.org/)
 - [Lumberyard](https://aws.amazon.com/pt/lumberyard/)
 - [LumixEngine](https://github.com/nem0/lumixengine)
-- [META](https://meta2d.com/)
 - [MelonJS](http://melonjs.org/)
 - [MonoGame](http://www.monogame.net/)
 - [Murl Engine](https://murlengine.com/)
@@ -215,7 +214,6 @@
 
 - [Orteil's Game Idea Generator](https://dashnet.org/orteil/gamegen)
 - [Board Game Design Idea Generator](http://www.boardgamizer.com/)
-- [Gavin's Absurd Game Idea Generator](http://critsandvich.com/random/gameideas.html)
 
 ### Mockups / Collaborative Drawing
 
