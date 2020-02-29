@@ -98,7 +98,6 @@
 - [Unity](https://unity.com/)
 - [Unreal Engine](https://www.unrealengine.com/)
 - [Urho3D](https://urho3d.github.io/)
-- [Voxel.js](http://voxeljs.com/)
 - [Xenko](https://xenko.com/)
 
 ### Assets / Placeholders
@@ -147,7 +146,7 @@
 - [Ardour](https://ardour.org/)
 - [Audiotool](https://www.audiotool.com/)
 - [BeepBox](https://www.beepbox.co/)
-- [Bosca Ceoil](https://online.boscaceoil.net/)
+- [Bosca Ceoil](https://boscaceoil.net)
 - [LMMS](https://lmms.io/)
 - [MilkyTracker](https://milkytracker.titandemo.org/)
 
