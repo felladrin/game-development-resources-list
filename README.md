@@ -116,7 +116,7 @@
 - [Freesound](https://freesound.org/)
 - [SoundBible](https://soundbible.com/)
 - [FreeSoundEffects](https://www.freesoundeffects.com/)
-- [Super Dialogue Audio Pack](https://jumpcut.itch.io/sdap)
+- [Super Dialogue Audio Pack](https://bckr.itch.io/sdap)
 
 ### Royalty Free Music
 
