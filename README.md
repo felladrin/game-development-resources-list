@@ -82,7 +82,6 @@
 - [Pixi.js](https://www.pixijs.com/)
 - [Piston](https://www.piston.rs/)
 - [PlayCanvas](https://playcanvas.com/)
-- [Pygame](https://www.pygame.org/)
 - [QICI Engine](https://github.com/qiciengine/qiciengine)
 - [Ren’Py](https://www.renpy.org/)
 - [ShiVa](https://shiva-engine.com/)
@@ -101,7 +100,6 @@
 
 ### Assets / Placeholders
 
-- [ArtSader](https://www.moosader.com/archive/artsader/)
 - [Blend Swap](https://www.blendswap.com/)
 - [Epic Art & Assets Collection](https://bakudas.itch.io/epic-art-assets-collection)
 - [Kenney Assets](https://kenney.nl/assets/)
