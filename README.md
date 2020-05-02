@@ -29,7 +29,6 @@
 - [BabylonJS](https://www.babylonjs.com/)
 - [BabylonHx](https://babylonhx.gamestudiohx.com/)
 - [Bladecoder Adventure Engine](https://github.com/bladecoder/bladecoder-adventure-engine)
-- [Banshee 3D](https://www.banshee3d.com/)
 - [Cafu Engine](https://www.cafu.de/)
 - [Castle](https://castle-engine.io/)
 - [Citrus](http://citrusengine.com/)
