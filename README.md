@@ -144,7 +144,6 @@
 - [BeepBox](https://www.beepbox.co/)
 - [Bosca Ceoil](https://boscaceoil.net)
 - [LMMS](https://lmms.io/)
-- [MilkyTracker](https://milkytracker.titandemo.org/)
 
 ### 2D Animation
 
