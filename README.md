@@ -217,7 +217,3 @@
 ------------------------------------------------------------------------
 
 Things that would not fit in this list: *Articles*, *Books*, *Videos*, *Podcasts*, *Magazines*, *Blogs*, *IDEs*, *Text Editors*, *Version Control Systems*, *Time Management Methods*, *Real-time Team Communication*, *Project Management Applications*.
-
-------------------------------------------------------------------------
-
-One-click sharing links for this page: [Twitter](https://twitter.com/home?status=https://github.com/felladrin/game-development-resources-list) · [Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=https://github.com/felladrin/game-development-resources-list&p%5Bimages%5D%5B0%5D=&p%5Btitle%5D=Everchanging%20List%20of%20Game%20Development%20Resources&p%5Bsummary%5D=) · [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/felladrin/game-development-resources-list&title=Everchanging%20List%20of%20Game%20Development%20Resources&summary=&source=)
