@@ -49,7 +49,6 @@
 - [Flambe](https://github.com/aduros/flambe)
 - [Flixel](http://flixel.org/)
 - [FUSEE](https://fusee3d.org/)
-- [GameBuilder Studio](http://gamebuilderstudio.com/)
 - [Gamefroot](https://make.gamefroot.com)
 - [GameMaker](https://yoyogames.com/)
 - [GameSalad](https://gamesalad.com/)
