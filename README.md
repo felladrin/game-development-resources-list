@@ -33,7 +33,6 @@
 - [Castle](https://castle-engine.io/)
 - [Citrus](http://citrusengine.com/)
 - [ClanFX](https://sourceforge.net/projects/clanfx/)
-- [Clickteam Fusion](https://www.clickteam.com/clickteam-fusion-2-5)
 - [Cocos2D](https://www.cocos2d-x.org/)
 - [Construct](https://www.scirra.com/)
 - [CopperCube](https://ambiera.com/coppercube/)
