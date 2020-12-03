@@ -82,13 +82,13 @@
 - [OpenGameArt](https://opengameart.org/)
 - [Kenney Assets](https://kenney.nl/assets/)
 
-### Icons
+## Icons
 
 - [GameIcons](https://game-icons.net/)
 - [Iconmonstr](https://iconmonstr.com/)
 - [Iconfinder](https://www.iconfinder.com/)
 
-### Color Schemes
+## Color Schemes
 
 - [Adobe Color](https://color.adobe.com/)
 - [Coolors](https://coolors.co/)
@@ -105,13 +105,13 @@
 - [FreeSoundEffects](https://www.freesoundeffects.com/)
 - [Sound Image](https://soundimage.org/)
 
-### Fonts
+## Fonts
 
 - [Da Font](https://www.dafont.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Google Fonts](https://fonts.google.com/)
 
-### Ideas
+## Ideas
 
 - [Board Game Design Idea Generator](http://www.boardgamizer.com/)
 - [Insanity Jam Official Game Idea Generator](https://alamantus.gitlab.io/GameIdeaGenerator/)
