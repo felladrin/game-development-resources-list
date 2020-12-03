@@ -77,8 +77,10 @@
 
 - [Game Assets on Itch.io](https://itch.io/game-assets)
 - [Unity Asset Store](https://assetstore.unity.com/)
+- [GameDev Market](https://www.gamedevmarket.net/)
 - [OpenGameArt](https://opengameart.org/)
 - [Kenney Assets](https://kenney.nl/assets/)
+- [Game Art 2D](https://www.gameart2d.com/)
 
 ## Icons
 
