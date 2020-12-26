@@ -15,7 +15,7 @@
 - [Corona](https://coronalabs.com/)
 - [CraftStudio](https://sparklinlabs.itch.io/craftstudio)
 - [Crafty](http://craftyjs.com/)
-- [Dash](https://dash.circularstudios.com/)
+- [Dash](https://circularstudios.com/Dash/)
 - [Defold](https://www.defold.com/)
 - [Delta Engine](https://deltaengine.net/)
 - [Duality](https://www.duality2d.net/)
