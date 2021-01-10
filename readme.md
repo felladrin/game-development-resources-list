@@ -60,7 +60,7 @@
 - [QICI Engine](https://github.com/qiciengine/qiciengine)
 - [Ren’Py](https://www.renpy.org/)
 - [ShiVa](https://shiva-engine.com/)
-- [Solarus](https://www.solarus-games.org/)
+- [Solarus](https://solarus-games.org/)
 - [Starling](https://gamua.com/starling/)
 - [Stencyl](http://www.stencyl.com/)
 - [Superpowers](http://superpowers-html5.com/)
