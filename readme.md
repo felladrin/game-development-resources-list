@@ -80,6 +80,7 @@
 - [OpenGameArt](https://opengameart.org/)
 - [Kenney Assets](https://kenney.nl/assets/)
 - [Game Art 2D](https://www.gameart2d.com/)
+- [3DModelsCC0](https://www.3dmodelscc0.com/)
 
 ## Icons
 
