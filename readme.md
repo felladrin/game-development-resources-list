@@ -63,6 +63,7 @@
 - [Starling](https://gamua.com/starling/)
 - [Stencyl](http://www.stencyl.com/)
 - [Superpowers](http://superpowers-html5.com/)
+- [Taro](https://www.echou.xyz/taro/)
 - [TIC-80](https://tic.computer/)
 - [Torque 3D](https://torque3d.org/)
 - [Turbulenz](http://biz.turbulenz.com/developers)
